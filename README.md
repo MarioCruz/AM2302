@@ -7,4 +7,4 @@ pip3 install adafruit-circuitpython-dht
 
 sudo apt-get install libgpiod2
 
-![Screenshot](DH-PiWiring)
+![Screenshot](DH-PiWiring.png)
